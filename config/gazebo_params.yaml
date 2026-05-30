@@ -1,0 +1,3 @@
+gazebo:
+    pos__parametes:
+      publish_rate: 400.0
